@@ -21,5 +21,5 @@ crosslingual dependency parsing
 
 ## requirements
 `allennlp`  
-`opustools`
+`opustools`  
 `jsonlines`
