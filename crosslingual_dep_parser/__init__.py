@@ -2,4 +2,3 @@ from .dataset_readers.dep_parsing_reader import CrosslingualDepParsingDatasetRea
 from .models.crosslingual_dep_parser import CrosslingualDependencyParser
 from .predictor.dep_parsing_predictor import CrosslingualDependencyParserPredictor
 from .models.base_dep_parser import BaseDependencyParser
-from .models.contrastive_crosslingual_dep_parser import ContrastiveCrosslingualDependencyParser
